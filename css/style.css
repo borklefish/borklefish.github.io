@@ -240,6 +240,40 @@ th {
 	color: #1e1018;
 }
 
+/* navigation table - playlists page */
+table.navtable {
+	border:none;
+	border-collapse:separate;
+}
+
+table.navtable th {					/* heading cell*/
+	border:none;
+	border-radius:10px;
+	background-color: #628f76;
+	color: #1e1018;
+}
+
+table.navtable th:hover {			/* heading cell - hover*/
+	border:none;
+	border-radius:10px;
+	background-color: #ccab84;
+	color: #1e1018;
+}
+
+table.navtable th.sel {				/* heading cell - selected*/
+	border:none;
+	border-radius:10px;
+	background-color: #ccab84;
+	color: #1e1018;
+}
+
+table.navtable th.sel:hover {		/* heading cell - selected - hover*/
+	border:none;
+	border-radius:10px;
+	background-color: #ccab84;
+	color: #1e1018;
+}
+
 /* Avatar
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .avatar {
