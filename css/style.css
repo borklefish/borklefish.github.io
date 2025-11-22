@@ -186,6 +186,15 @@ a:hover {
 	color:#ccab84;
 }
 
+a.back {
+	color:#628f76;
+	text-decoration:none;
+}
+
+a.back:hover {
+	color:#ccab84;
+}
+
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button,button {
@@ -226,6 +235,22 @@ a:hover {
 	margin-right:0.5rem;
 	flex-shrink:0;
 	filter: brightness(0) saturate(100%) invert(5%) sepia(56%) saturate(526%) hue-rotate(273deg) brightness(96%) contrast(96%);
+}
+
+.back {
+	width:1.25rem;
+	height:1.25rem;
+	margin-right:0.5rem;
+	flex-shrink:0;
+	filter: brightness(0) saturate(100%) invert(50%) sepia(32%) saturate(316%) hue-rotate(94deg) brightness(97%) contrast(94%);
+}
+
+.back:hover {
+	width:1.25rem;
+	height:1.25rem;
+	margin-right:0.5rem;
+	flex-shrink:0;
+	filter: brightness(0) saturate(100%) invert(75%) sepia(50%) saturate(231%) hue-rotate(352deg) brightness(85%) contrast(88%);
 }
 
 /* Table
