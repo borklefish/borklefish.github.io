@@ -169,16 +169,6 @@ footer {
 }
 }
 
-/* Center 
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.center {
-	margin: auto;
-	width: 50%;
-	border: 0px solid green;
-	padding: 10px;
-	text-align: center;
-}
-
 /* Links
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   a {
