@@ -258,6 +258,10 @@ th {
 	color: #1e1018;
 }
 
+table.title {
+	border: 0px solid;
+}
+
 /* Avatar
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .avatar {
