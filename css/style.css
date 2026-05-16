@@ -144,6 +144,14 @@ body {
 	text-align:center;
 }
 
+/* 88x31 Buttons */
+img.btn {
+	display: inline;
+    margin: auto;
+    max-height: 31px;
+    max-width: 88px;
+}
+
 /* Footer */
 footer {
 	margin:var(--spacing-xxl) 0;            /* 4rem (64px) top and bottom */
